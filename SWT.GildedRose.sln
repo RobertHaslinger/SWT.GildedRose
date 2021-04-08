@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWT.GildedRose", "SWT.GildedRose\SWT.GildedRose.csproj", "{BFA2DC25-BAAC-4CC2-A006-6829A1603A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWT.GildedRose.Test", "SWT.GildedRose.Test\SWT.GildedRose.Test.csproj", "{C3E52531-277A-4CE1-88A3-D961AC7C2601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA2DC25-BAAC-4CC2-A006-6829A1603A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA2DC25-BAAC-4CC2-A006-6829A1603A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA2DC25-BAAC-4CC2-A006-6829A1603A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA2DC25-BAAC-4CC2-A006-6829A1603A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E52531-277A-4CE1-88A3-D961AC7C2601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E52531-277A-4CE1-88A3-D961AC7C2601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E52531-277A-4CE1-88A3-D961AC7C2601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E52531-277A-4CE1-88A3-D961AC7C2601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F082D99-0378-43FC-8B15-0264FAECCD54}
+	EndGlobalSection
+EndGlobal
